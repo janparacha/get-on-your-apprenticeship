@@ -15,6 +15,13 @@ interface Data {
 
 interface ResponseWizzards {
   data: Data[];
+  meta: Meta;
+}
+
+interface Meta {
+  pagination: {
+    current: number
+  }
 }
 
 realRouter.get("/", async function (req, res, next) {
@@ -53,15 +60,12 @@ realRouter.get("/students", async function (req, res, next) {
       const students = data.filter((student) => student.attributes.house === house);
       res.json(students);
     } else {
-      if (page) {
-        response = await fetch(`https://api.potterdb.com/v1/characters?page[number]=${page}`);
-      } else {
-        response = await fetch("https://api.potterdb.com/v1/characters?page[number]=1");
-      }
-      const { data } = (await response.json()) as ResponseWizzards;
+      response = await fetch(`https://api.potterdb.com/v1/characters?page[number]=${page}`);
+      const data = (await response.json()) as ResponseWizzards;
       res.json(data);
     }
-  } catch (error) {
+  }
+  catch (error) {
     console.log(error);
     res.status(500).send("Une erreur est survenue lors de la récupération des données.");
   }

@@ -1,20 +1,25 @@
-import React, { useEffect } from "react";
-import { FilterHouse } from "./FilterHouse";
+import React, { useEffect, useState } from "react";
+import { Filter } from "./Filter";
+import { useSearchParams } from "react-router-dom";
 
-export const AllStudents = ({ students, setStudents }) => {
+export const AllStudents = () => {
+  const [students, setStudents] = useState([]);
+  
+
   useEffect(() => {
-    const fetchStudents = async () => {
-      const response = await fetch("http://localhost:3000/real/");
-      const { data } = await response.json();
-      setStudents(data);
-    };
-    fetchStudents();
+      const fetchStudents = async () => {
+        const response = await fetch("http://localhost:3000/real");
+        const data = await response.json();
+        setStudents(data.data);
+      };
+      fetchStudents();
+    
   }, []);
-
   return (
     <>
       <h2>Here is a list of all students:</h2>
-      <FilterHouse setStudents={setStudents} />
+      <Filter setStudents={setStudents} />
+
       {students ? (
         <table>
           <thead>

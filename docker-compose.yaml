@@ -1,0 +1,32 @@
+version: "3.4"
+
+services:
+  front:
+    image: node:lts-alpine3.19
+    entrypoint: /bin/sh
+    ports:
+    - 3001:3001
+    working_dir: /app
+    volumes:
+     - type: bind
+       source: ./front
+       target: /app/front
+    command: 
+    - -c
+    - cd front && npm install && npm run dev
+    depends_on:
+      - back
+
+  back:
+    image: node:lts-alpine3.19
+    entrypoint: /bin/sh
+    ports:
+    - 3000:3000
+    working_dir: /app
+    volumes:
+      - type: bind
+        source: ./api
+        target: /app/api
+    command: 
+    - -c
+    - cd api && npm install && npm run dev

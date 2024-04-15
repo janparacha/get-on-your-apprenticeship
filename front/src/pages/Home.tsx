@@ -5,7 +5,6 @@ import { AllStudents } from "./../components/AllStudents";
 import { RandomStudent } from "./../components/RandomStudent";
 
 function Home() {
-  const [students, setStudents] = useState(null);
   const [randomStudent, setRandomStudent] = useState("");
 
   useEffect(() => {
@@ -29,8 +28,6 @@ function Home() {
 
       <main>
         <AllStudents
-          students={students}
-          setStudents={setStudents}
         />
         <RandomStudent
           randomStudent={randomStudent}
