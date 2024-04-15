@@ -1,0 +1,3908 @@
+{
+    "data": [
+        {
+            "id": "20448207-20d2-48cb-85b4-d61ee8f50f97",
+            "type": "character",
+            "attributes": {
+                "slug": "1992-gryffindor-vs-slytherin-quidditch-match-spectators",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": null,
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "1992 Gryffindor vs Slytherin Quidditch match spectators",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": null,
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/1992_Gryffindor_vs_Slytherin_Quidditch_match_spectators"
+            },
+            "links": {
+                "self": "/v1/characters/20448207-20d2-48cb-85b4-d61ee8f50f97"
+            }
+        },
+        {
+            "id": "ba22f019-15ad-480c-a5ea-010382cadf55",
+            "type": "character",
+            "attributes": {
+                "slug": "1996-gryffindor-quidditch-keeper-trials-spectators",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": null,
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "1996 Gryffindor Quidditch Keeper trials spectators",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": null,
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/1996_Gryffindor_Quidditch_Keeper_trials_spectators"
+            },
+            "links": {
+                "self": "/v1/characters/ba22f019-15ad-480c-a5ea-010382cadf55"
+            }
+        },
+        {
+            "id": "015c91ba-bc7f-4622-a571-0b5e2488fefe",
+            "type": "character",
+            "attributes": {
+                "slug": "2-headed-baby",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before 1927",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male (most likely)",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/a/a6/2HeadedBaby.jpg",
+                "jobs": [
+                    "Circus performers"
+                ],
+                "marital_status": null,
+                "name": "2-Headed Baby",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/2-Headed_Baby"
+            },
+            "links": {
+                "self": "/v1/characters/015c91ba-bc7f-4622-a571-0b5e2488fefe"
+            }
+        },
+        {
+            "id": "4e1a392e-012d-4bd3-8040-2821150d4bac",
+            "type": "character",
+            "attributes": {
+                "slug": "unidentified-8-year-old-muggle-girl",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Muggle",
+                "boggart": null,
+                "born": "1983",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "8-year-old Muggle girl",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Unidentified_8-year-old_Muggle_girl"
+            },
+            "links": {
+                "self": "/v1/characters/4e1a392e-012d-4bd3-8040-2821150d4bac"
+            }
+        },
+        {
+            "id": "6f590753-c40b-42e5-90ca-3aa1c0180792",
+            "type": "character",
+            "attributes": {
+                "slug": "aamir-loonat",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "31 August 1982 or earlier",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": "Gryffindor",
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Aamir Loonat",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Aamir_Loonat"
+            },
+            "links": {
+                "self": "/v1/characters/6f590753-c40b-42e5-90ca-3aa1c0180792"
+            }
+        },
+        {
+            "id": "5c2f1c50-2fbe-4344-8fec-b0b018a995e6",
+            "type": "character",
+            "attributes": {
+                "slug": "abbott",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": "Before 24 December, 1997",
+                "eye_color": null,
+                "family_members": [
+                    "Hannah Abbott (possibly)",
+                    "Hannah Abbott's mother (possibly)",
+                    "Giffard Abbott (possibly)",
+                    "Abbott family"
+                ],
+                "gender": null,
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Abbott",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": null,
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abbott"
+            },
+            "links": {
+                "self": "/v1/characters/5c2f1c50-2fbe-4344-8fec-b0b018a995e6"
+            }
+        },
+        {
+            "id": "392b2d1c-648b-4f2d-8124-34b3ff75d40a",
+            "type": "character",
+            "attributes": {
+                "slug": "abel-treetops",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before 1832",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Con artist"
+                ],
+                "marital_status": null,
+                "name": "Abel Treetops",
+                "nationality": "American",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abel_Treetops"
+            },
+            "links": {
+                "self": "/v1/characters/392b2d1c-648b-4f2d-8124-34b3ff75d40a"
+            }
+        },
+        {
+            "id": "3c305e51-7129-4272-b1d6-90e25a599a2e",
+            "type": "character",
+            "attributes": {
+                "slug": "aberforth-dumbledore",
+                "alias_names": [
+                    "Ab"
+                ],
+                "animagus": null,
+                "blood_status": "Half-blood",
+                "boggart": null,
+                "born": "Between 1 September 1883 and 31 August 1884, Mould-on-the-Wold, England, Great Britain (presumably)",
+                "died": null,
+                "eye_color": "Bright blue",
+                "family_members": [
+                    "Percival Dumbledore (father) †",
+                    "Kendra Dumbledore (mother) †",
+                    "Albus Dumbledore (older brother) †",
+                    "Ariana Dumbledore (youngest sister) †",
+                    "Aurelius Dumbledore (biological son)",
+                    "Honoria (aunt)",
+                    "Dumbledore family"
+                ],
+                "gender": "Male",
+                "hair_color": "Grey",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/4/40/Aberforth_Dumbledore.jpg",
+                "jobs": [
+                    "Owner and Barman of the Hog's Head Inn"
+                ],
+                "marital_status": null,
+                "name": "Aberforth Dumbledore",
+                "nationality": "English",
+                "patronus": "Goat",
+                "romances": [
+                    "Aurelius Dumbledore's mother (former lover)"
+                ],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [
+                    "Unknown length, wood and core"
+                ],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Aberforth_Dumbledore"
+            },
+            "links": {
+                "self": "/v1/characters/3c305e51-7129-4272-b1d6-90e25a599a2e"
+            }
+        },
+        {
+            "id": "6769c068-14c7-4e5c-923b-bfdb1764fd39",
+            "type": "character",
+            "attributes": {
+                "slug": "abernathy",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before 1909 (likely)",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/a/a6/Abernathy_COG.png",
+                "jobs": [
+                    "Supervisor for the Wand Permit Office (formerly)"
+                ],
+                "marital_status": null,
+                "name": "Abernathy",
+                "nationality": "American",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [
+                    "Unknown length, wood and core (formerly)"
+                ],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abernathy"
+            },
+            "links": {
+                "self": "/v1/characters/6769c068-14c7-4e5c-923b-bfdb1764fd39"
+            }
+        },
+        {
+            "id": "c68ebdcf-c63d-4c7b-972c-b8af05f5ee48",
+            "type": "character",
+            "attributes": {
+                "slug": "abigail-grey",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Half-blood",
+                "boggart": null,
+                "born": "Between 1 September 1992 and 31 August 1997",
+                "died": null,
+                "eye_color": "Blue",
+                "family_members": [
+                    "Gerard Grey (father)",
+                    "Diana Grey (mother)",
+                    "Grey family"
+                ],
+                "gender": "Female",
+                "hair_color": "Red",
+                "height": null,
+                "house": "Gryffindor",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/a/af/Abigail_Grey_MA.jpeg",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Abigail Grey",
+                "nationality": "British or Irish",
+                "patronus": "Wolf",
+                "romances": [],
+                "skin_color": "White",
+                "species": "Human (werewolf)",
+                "titles": [],
+                "wands": [
+                    "11¼', Cypress, unicorn hair"
+                ],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abigail_Grey"
+            },
+            "links": {
+                "self": "/v1/characters/c68ebdcf-c63d-4c7b-972c-b8af05f5ee48"
+            }
+        },
+        {
+            "id": "718b0402-89a1-4d8d-9ba1-ac99d5a3a4e8",
+            "type": "character",
+            "attributes": {
+                "slug": "abigail-nicola",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": "Gryffindor",
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Abigail Nicola",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abigail_Nicola"
+            },
+            "links": {
+                "self": "/v1/characters/718b0402-89a1-4d8d-9ba1-ac99d5a3a4e8"
+            }
+        },
+        {
+            "id": "1adfb759-b212-4650-8f0d-ee4870684600",
+            "type": "character",
+            "attributes": {
+                "slug": "abigail-pugh",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "31 August 1982 or earlier",
+                "died": null,
+                "eye_color": "Brown",
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": "Black",
+                "height": null,
+                "house": "Slytherin",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/2/2f/Abigail_Pugh.png",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Abigail Pugh",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abigail_Pugh"
+            },
+            "links": {
+                "self": "/v1/characters/1adfb759-b212-4650-8f0d-ee4870684600"
+            }
+        },
+        {
+            "id": "92819351-45c3-4cb7-879f-f6951897ec34",
+            "type": "character",
+            "attributes": {
+                "slug": "abigail-r-cankus",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Author"
+                ],
+                "marital_status": null,
+                "name": "Abigail R. Cankus",
+                "nationality": "American",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abigail_R._Cankus"
+            },
+            "links": {
+                "self": "/v1/characters/92819351-45c3-4cb7-879f-f6951897ec34"
+            }
+        },
+        {
+            "id": "a7b23980-66d4-4e23-96fc-ee1a0bf03f99",
+            "type": "character",
+            "attributes": {
+                "slug": "able-fleming",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before 1776, United States of America",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "President of the Magical Congress of the United States of America (c. 1770s-?)"
+                ],
+                "marital_status": null,
+                "name": "Able Fleming",
+                "nationality": "American",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [
+                    "President"
+                ],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Able_Fleming"
+            },
+            "links": {
+                "self": "/v1/characters/a7b23980-66d4-4e23-96fc-ee1a0bf03f99"
+            }
+        },
+        {
+            "id": "944f790b-f435-4f88-a9d2-895df3b79dd2",
+            "type": "character",
+            "attributes": {
+                "slug": "able-spudmore",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "In or before 1923",
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Randolph Spudmore (son)",
+                    "Spudmore family"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Broom-maker"
+                ],
+                "marital_status": null,
+                "name": "Able Spudmore",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Able_Spudmore"
+            },
+            "links": {
+                "self": "/v1/characters/944f790b-f435-4f88-a9d2-895df3b79dd2"
+            }
+        },
+        {
+            "id": "9af9c09b-e69d-447a-ab86-8ba37b9fb55a",
+            "type": "character",
+            "attributes": {
+                "slug": "abraham",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Isaac (son)"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b4/ScreamingFaceBook.jpg",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Abraham",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abraham"
+            },
+            "links": {
+                "self": "/v1/characters/9af9c09b-e69d-447a-ab86-8ba37b9fb55a"
+            }
+        },
+        {
+            "id": "c69faf34-3f57-47f5-9eda-3fd3a1efab72",
+            "type": "character",
+            "attributes": {
+                "slug": "abraham-grimblehawk",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Half-blood",
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Mathilda Grimblehawk (niece)",
+                    "Grimblehawk family"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": "Hufflepuff",
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Abraham Grimblehawk",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abraham_Grimblehawk"
+            },
+            "links": {
+                "self": "/v1/characters/c69faf34-3f57-47f5-9eda-3fd3a1efab72"
+            }
+        },
+        {
+            "id": "bb3d8d51-2e97-4d70-a9b3-902642db3fbd",
+            "type": "character",
+            "attributes": {
+                "slug": "abraham-peasegood",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "c. 18th century",
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Arnold Peasegood (possibly)",
+                    "Peasegood family"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Abraham Peasegood",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [
+                    "Unknown length, wood and core"
+                ],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abraham_Peasegood"
+            },
+            "links": {
+                "self": "/v1/characters/bb3d8d51-2e97-4d70-a9b3-902642db3fbd"
+            }
+        },
+        {
+            "id": "787ec7b0-beaf-455f-8cc8-575ae772809f",
+            "type": "character",
+            "attributes": {
+                "slug": "abraham-potter",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Pure-blood or half-blood",
+                "boggart": null,
+                "born": "In or before 1676",
+                "died": "After 1693 (before reaching 'old age')",
+                "eye_color": null,
+                "family_members": [
+                    "Linfred of Stinchcombe (ancestor) †",
+                    "Ignotus Peverell (ancestor) †",
+                    "Ancestor †",
+                    "Hardwin Potter (ancestor or distant relative) †",
+                    "Ancestor/s or distant relatives †",
+                    "Iolanthe Peverell (ancestor or distant relative) †",
+                    "Potter family"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/1/10/AbrahamPotter.png",
+                "jobs": [
+                    "Auror"
+                ],
+                "marital_status": null,
+                "name": "Abraham Potter",
+                "nationality": "American",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abraham_Potter"
+            },
+            "links": {
+                "self": "/v1/characters/787ec7b0-beaf-455f-8cc8-575ae772809f"
+            }
+        },
+        {
+            "id": "459ee1be-9d5c-49d2-a836-453e23023157",
+            "type": "character",
+            "attributes": {
+                "slug": "abraham-ronen",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before 1866 (likely)",
+                "died": null,
+                "eye_color": "Brown",
+                "family_members": [
+                    "Father",
+                    "M. Ronen (wife)",
+                    "Ronen family"
+                ],
+                "gender": "Male",
+                "hair_color": "Grey",
+                "height": "6'1'",
+                "house": "Slytherin",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/e/ee/Abraham_Ronen.png",
+                "jobs": [
+                    "Charms Master at Hogwarts School of Witchcraft and Wizardry",
+                    "Head of Slytherin House at Hogwarts School of Witchcraft and Wizardry"
+                ],
+                "marital_status": "Married",
+                "name": "Abraham Ronen",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [
+                    "Professor",
+                    "Charms Master",
+                    "Head of Slytherin House"
+                ],
+                "wands": [
+                    "Unknown length, wood and core"
+                ],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abraham_Ronen"
+            },
+            "links": {
+                "self": "/v1/characters/459ee1be-9d5c-49d2-a836-453e23023157"
+            }
+        },
+        {
+            "id": "670a3d2e-0f34-4850-9dc9-a72e861465f5",
+            "type": "character",
+            "attributes": {
+                "slug": "abraham-ronen-s-father",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Pure-blood, Half-blood, or Muggle-born",
+                "boggart": null,
+                "born": "Before 1848",
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Abraham Ronen (son)",
+                    "M. Ronen (daughter-in-law)",
+                    "Ronen family"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Abraham Ronen's father",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abraham_Ronen's_father"
+            },
+            "links": {
+                "self": "/v1/characters/670a3d2e-0f34-4850-9dc9-a72e861465f5"
+            }
+        },
+        {
+            "id": "f17b7b66-1312-4565-89c0-e9473f72e7a6",
+            "type": "character",
+            "attributes": {
+                "slug": "abraxan-at-the-magical-creatures-reserve",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": "Black",
+                "family_members": [],
+                "gender": null,
+                "hair_color": "White",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/9/93/AbraxanAtTheMagicalCreaturesReserve.jpg",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Abraxan at the Magical Creatures Reserve",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Palomino",
+                "species": "Abraxan",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abraxan_at_the_Magical_Creatures_Reserve"
+            },
+            "links": {
+                "self": "/v1/characters/f17b7b66-1312-4565-89c0-e9473f72e7a6"
+            }
+        },
+        {
+            "id": "ae2986da-79dc-4034-9aa7-d9922ae6db4c",
+            "type": "character",
+            "attributes": {
+                "slug": "abraxas-malfoy",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Pure-blood",
+                "boggart": null,
+                "born": "before 1936 (most likely)",
+                "died": "Pre 2 September 1996",
+                "eye_color": null,
+                "family_members": [
+                    "Lucius Malfoy II (son)",
+                    "Narcissa Malfoy (née Black) (daughter-in-law)",
+                    "Draco Malfoy (grandson)",
+                    "Astoria Malfoy (née Greengrass) (granddaughter-in-law) †",
+                    "Armand Malfoy (paternal ancestor) †",
+                    "Nicholas Malfoy (paternal ancestor) †",
+                    "Lucius Malfoy I (paternal ancestor) †",
+                    "Brutus Malfoy (paternal ancestor) †",
+                    "Septimus Malfoy (paternal ancestor) †",
+                    "Malfoy family"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": "Slytherin",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/0/01/AbraxasMalfoy.png",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Abraxas Malfoy",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Abraxas_Malfoy"
+            },
+            "links": {
+                "self": "/v1/characters/ae2986da-79dc-4034-9aa7-d9922ae6db4c"
+            }
+        },
+        {
+            "id": "63d0df97-8581-4c70-acd1-e3d2048c387a",
+            "type": "character",
+            "attributes": {
+                "slug": "aceline-faure",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": null,
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Aceline Faure",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Aceline_Faure"
+            },
+            "links": {
+                "self": "/v1/characters/63d0df97-8581-4c70-acd1-e3d2048c387a"
+            }
+        },
+        {
+            "id": "eb10bd9e-097e-4f0a-bcb0-c805e9ada544",
+            "type": "character",
+            "attributes": {
+                "slug": "achilles-tolliver",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before 1910",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Auror"
+                ],
+                "marital_status": null,
+                "name": "Achilles Tolliver",
+                "nationality": "American",
+                "patronus": null,
+                "romances": [
+                    "Porpentina Goldstein (dated)"
+                ],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Achilles_Tolliver"
+            },
+            "links": {
+                "self": "/v1/characters/eb10bd9e-097e-4f0a-bcb0-c805e9ada544"
+            }
+        },
+        {
+            "id": "06cf04ca-d0fa-499b-9569-0a808512f609",
+            "type": "character",
+            "attributes": {
+                "slug": "ackley-barnes",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": "Brown",
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": "Black",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/b/bb/HL_-_Ackley_Barnes.png",
+                "jobs": [
+                    "Thief",
+                    "Businessman"
+                ],
+                "marital_status": null,
+                "name": "Ackley Barnes",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Ackley_Barnes"
+            },
+            "links": {
+                "self": "/v1/characters/06cf04ca-d0fa-499b-9569-0a808512f609"
+            }
+        },
+        {
+            "id": "79fa841a-9079-4c91-b59f-5a08e4c41b8f",
+            "type": "character",
+            "attributes": {
+                "slug": "acolyte-thug",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before 1927",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Acolyte thug",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Acolyte_thug"
+            },
+            "links": {
+                "self": "/v1/characters/79fa841a-9079-4c91-b59f-5a08e4c41b8f"
+            }
+        },
+        {
+            "id": "d87e72f4-dd6a-4eac-a8ac-0f4bdc1f376b",
+            "type": "character",
+            "attributes": {
+                "slug": "actor-who-played-crapaud",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": "Brown",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/b/be/Crapaud.png",
+                "jobs": [
+                    "Actor"
+                ],
+                "marital_status": null,
+                "name": "Actor who played Crapaud",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Actor_who_played_Crapaud"
+            },
+            "links": {
+                "self": "/v1/characters/d87e72f4-dd6a-4eac-a8ac-0f4bdc1f376b"
+            }
+        },
+        {
+            "id": "f0e3cbbe-9f81-4b73-9b8c-e31dbf3c4d8b",
+            "type": "character",
+            "attributes": {
+                "slug": "actor-who-played-grenouille",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": "Red",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/2/24/Grenouille.png",
+                "jobs": [
+                    "Actor"
+                ],
+                "marital_status": null,
+                "name": "Actor who played Grenouille",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Actor_who_played_Grenouille"
+            },
+            "links": {
+                "self": "/v1/characters/f0e3cbbe-9f81-4b73-9b8c-e31dbf3c4d8b"
+            }
+        },
+        {
+            "id": "a3ee23ec-75eb-452b-a70e-f52c20534d4f",
+            "type": "character",
+            "attributes": {
+                "slug": "ada",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Tarek (husband)",
+                    "Unborn child"
+                ],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": "Married",
+                "name": "Ada",
+                "nationality": "Scottish",
+                "patronus": null,
+                "romances": [
+                    "Tarek (husband)"
+                ],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Ada"
+            },
+            "links": {
+                "self": "/v1/characters/a3ee23ec-75eb-452b-a70e-f52c20534d4f"
+            }
+        },
+        {
+            "id": "6b00d43c-7ef8-48f1-a1b6-dd5f3d6d5933",
+            "type": "character",
+            "attributes": {
+                "slug": "adalbert-waffling",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": "1981",
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/5/5b/Adalbert_Waffling_HM.png",
+                "jobs": [
+                    "Author",
+                    "Magical Theoretician"
+                ],
+                "marital_status": null,
+                "name": "Adalbert Waffling",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Adalbert_Waffling"
+            },
+            "links": {
+                "self": "/v1/characters/6b00d43c-7ef8-48f1-a1b6-dd5f3d6d5933"
+            }
+        },
+        {
+            "id": "bdf8f558-579f-44bd-9945-e0ebb0c84c9b",
+            "type": "character",
+            "attributes": {
+                "slug": "adam-arterius",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Between 1 September 1990 and 31 August 1997",
+                "died": null,
+                "eye_color": "Brown",
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": "Brown",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/6/62/Adam_Arterius_MA.jpg",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Adam Arterius",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Adam_Arterius"
+            },
+            "links": {
+                "self": "/v1/characters/bdf8f558-579f-44bd-9945-e0ebb0c84c9b"
+            }
+        },
+        {
+            "id": "ee0466a6-40cd-4489-afc8-71482dc080b4",
+            "type": "character",
+            "attributes": {
+                "slug": "adam-pickering",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "31 August 1982 or earlier",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": "Gryffindor",
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Adam Pickering",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Adam_Pickering"
+            },
+            "links": {
+                "self": "/v1/characters/ee0466a6-40cd-4489-afc8-71482dc080b4"
+            }
+        },
+        {
+            "id": "09c31bf0-2eaf-4eab-a68b-89dfa93c27d0",
+            "type": "character",
+            "attributes": {
+                "slug": "addison-fawley",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Pure-blood, Half-blood or Squib (possibly)",
+                "boggart": null,
+                "born": "Between 2006 and 2015",
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Grim Fawley (father)",
+                    "Penelope Fawley (mother)",
+                    "Melody Fawley (twin sister)",
+                    "Lucretia Fawley (paternal grandmother) †",
+                    "Marshall Fawley (paternal grandfather) †",
+                    "Maternal grandfather",
+                    "Maternal grandmother",
+                    "Fawley family"
+                ],
+                "gender": null,
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Addison Fawley",
+                "nationality": "British",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Addison_Fawley"
+            },
+            "links": {
+                "self": "/v1/characters/09c31bf0-2eaf-4eab-a68b-89dfa93c27d0"
+            }
+        },
+        {
+            "id": "dcf5619c-b9a6-477b-845b-4b23a130db24",
+            "type": "character",
+            "attributes": {
+                "slug": "adelaide-murton",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "31 August 1982 or earlier",
+                "died": null,
+                "eye_color": "Brown",
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": "Black",
+                "height": null,
+                "house": "Slytherin",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/a/a0/Adelaide_Murton.png",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Adelaide Murton",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Adelaide_Murton"
+            },
+            "links": {
+                "self": "/v1/characters/dcf5619c-b9a6-477b-845b-4b23a130db24"
+            }
+        },
+        {
+            "id": "61657f48-1b5c-4524-ac5d-63b3c0328e49",
+            "type": "character",
+            "attributes": {
+                "slug": "adelaide-oakes",
+                "alias_names": [
+                    "Addie"
+                ],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Between 1 September 1874 and 31 August 1875",
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Father †",
+                    "Mother †",
+                    "Rowland Oakes (uncle)",
+                    "Oakes family"
+                ],
+                "gender": "Female",
+                "hair_color": "Light brown",
+                "height": null,
+                "house": "Hufflepuff",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/b/ba/Adelaide_Oakes_-_HL.png",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Adelaide Oakes",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Adelaide_Oakes"
+            },
+            "links": {
+                "self": "/v1/characters/61657f48-1b5c-4524-ac5d-63b3c0328e49"
+            }
+        },
+        {
+            "id": "faeb81aa-cd18-4ad5-aa73-aa9098663eda",
+            "type": "character",
+            "attributes": {
+                "slug": "adelaide-oakes-s-mother",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": "Between 1 September 1874 and 31 August 1875",
+                "eye_color": null,
+                "family_members": [
+                    "Partner †",
+                    "Adelaide Oakes (daughter)",
+                    "Rowland Oakes (brother-in-law)",
+                    "Oakes family"
+                ],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Adelaide Oakes's mother",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Adelaide_Oakes's_mother"
+            },
+            "links": {
+                "self": "/v1/characters/faeb81aa-cd18-4ad5-aa73-aa9098663eda"
+            }
+        },
+        {
+            "id": "98c0f1a5-073d-44bb-9b8b-f50ff224c587",
+            "type": "character",
+            "attributes": {
+                "slug": "adelaide-oakes-s-father",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": "Between 1 September 1879 and 30 August 1881",
+                "eye_color": null,
+                "family_members": [
+                    "Partner †",
+                    "Adelaide Oakes (daughter)",
+                    "Rowland Oakes (brother)",
+                    "Oakes family"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Adelaide Oakes's mother",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Adelaide_Oakes's_father"
+            },
+            "links": {
+                "self": "/v1/characters/98c0f1a5-073d-44bb-9b8b-f50ff224c587"
+            }
+        },
+        {
+            "id": "450c36be-e401-4d29-8cd8-c1a7d7d1c3b7",
+            "type": "character",
+            "attributes": {
+                "slug": "adou-sosseh",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": null,
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Captain for the Senegalese National Quidditch team"
+                ],
+                "marital_status": null,
+                "name": "Adou Sosseh",
+                "nationality": "Senegalese",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [
+                    "Captain"
+                ],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Adou_Sosseh"
+            },
+            "links": {
+                "self": "/v1/characters/450c36be-e401-4d29-8cd8-c1a7d7d1c3b7"
+            }
+        },
+        {
+            "id": "06f3de48-d597-4945-a9ad-4f5c161db596",
+            "type": "character",
+            "attributes": {
+                "slug": "adrian",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Between 1 September, 1959 and 31 August, 1960",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/5/56/Adrian_1.jpg",
+                "jobs": [
+                    "Photographer at the Daily Prophet"
+                ],
+                "marital_status": null,
+                "name": "Adrian",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Adrian"
+            },
+            "links": {
+                "self": "/v1/characters/06f3de48-d597-4945-a9ad-4f5c161db596"
+            }
+        },
+        {
+            "id": "6c336fc4-b267-4ba7-a6f0-926b678fa122",
+            "type": "character",
+            "attributes": {
+                "slug": "adrian-pucey",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Between 1 September 1977 and 31 August 1979 (likely)",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": "Slytherin",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/1/13/Adrianpucey-HS.jpg",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Adrian Pucey",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [
+                    "Chaser"
+                ],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Adrian_Pucey"
+            },
+            "links": {
+                "self": "/v1/characters/6c336fc4-b267-4ba7-a6f0-926b678fa122"
+            }
+        },
+        {
+            "id": "0927c135-6eb5-4c57-9fd2-be4040ed9fd5",
+            "type": "character",
+            "attributes": {
+                "slug": "adrian-speke",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "on or prior to 31 August 1982",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": "Hufflepuff",
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Adrian Speke",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Adrian_Speke"
+            },
+            "links": {
+                "self": "/v1/characters/0927c135-6eb5-4c57-9fd2-be4040ed9fd5"
+            }
+        },
+        {
+            "id": "841ab7fd-93c2-4859-b2b9-64a8a0a6eee4",
+            "type": "character",
+            "attributes": {
+                "slug": "adrian-tutley",
+                "alias_names": [],
+                "animagus": "Gerbil",
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Adrian Tutley",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Adrian_Tutley"
+            },
+            "links": {
+                "self": "/v1/characters/841ab7fd-93c2-4859-b2b9-64a8a0a6eee4"
+            }
+        },
+        {
+            "id": "d49a81fa-10d0-4e17-b18e-911762b1191a",
+            "type": "character",
+            "attributes": {
+                "slug": "aesop-sharp",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "In or before 1858",
+                "died": null,
+                "eye_color": "Brown",
+                "family_members": [
+                    "Kitty Sharp (possibly)",
+                    "Scarlet Sharp (possibly)",
+                    "Sharp family"
+                ],
+                "gender": "Male",
+                "hair_color": "Brown",
+                "height": null,
+                "house": "Slytherin",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/2/28/Aesop_Sharp.png",
+                "jobs": [
+                    "Auror (formerly)",
+                    "Potions Master at Hogwarts School of Witchcraft and Wizardry"
+                ],
+                "marital_status": null,
+                "name": "Aesop Sharp",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [
+                    "Professor"
+                ],
+                "wands": [
+                    "Unknown length, wood, and core"
+                ],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Aesop_Sharp"
+            },
+            "links": {
+                "self": "/v1/characters/d49a81fa-10d0-4e17-b18e-911762b1191a"
+            }
+        },
+        {
+            "id": "93db62f4-f550-4037-accb-5cc7ae8f29af",
+            "type": "character",
+            "attributes": {
+                "slug": "aesop-sharp-s-partner",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": "Before 1890",
+                "eye_color": null,
+                "family_members": [],
+                "gender": null,
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Auror"
+                ],
+                "marital_status": null,
+                "name": "Aesop Sharp's partner",
+                "nationality": "British",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Aesop_Sharp's_partner"
+            },
+            "links": {
+                "self": "/v1/characters/93db62f4-f550-4037-accb-5cc7ae8f29af"
+            }
+        },
+        {
+            "id": "de623657-bf8f-40fb-9444-bceec29b338a",
+            "type": "character",
+            "attributes": {
+                "slug": "affpuddle-of-the-cheerful-countenance",
+                "alias_names": [
+                    "Waving Knight"
+                ],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": "Before 1890",
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/4/42/Affpuddle_HL.png",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Affpuddle",
+                "nationality": "British",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [
+                    "Sir"
+                ],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Affpuddle_of_the_Cheerful_Countenance"
+            },
+            "links": {
+                "self": "/v1/characters/de623657-bf8f-40fb-9444-bceec29b338a"
+            }
+        },
+        {
+            "id": "8f0ec485-4096-4b00-85ac-96c46bf74cb0",
+            "type": "character",
+            "attributes": {
+                "slug": "african-prince",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "African prince",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [
+                    "Prince"
+                ],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/African_prince"
+            },
+            "links": {
+                "self": "/v1/characters/8f0ec485-4096-4b00-85ac-96c46bf74cb0"
+            }
+        },
+        {
+            "id": "7ac579f6-9d0d-47e1-9675-b3b3f5301caf",
+            "type": "character",
+            "attributes": {
+                "slug": "agabus-philbert",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": "Brown",
+                "family_members": [
+                    "Dulcibella Philbert (wife) †"
+                ],
+                "gender": "Male",
+                "hair_color": "Brown",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/5/5f/Agabus_Philbert_HL.png",
+                "jobs": [],
+                "marital_status": "Widowed",
+                "name": "Agabus Philbert",
+                "nationality": "Scottish",
+                "patronus": null,
+                "romances": [
+                    "Dulcibella Philbert"
+                ],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Agabus_Philbert"
+            },
+            "links": {
+                "self": "/v1/characters/7ac579f6-9d0d-47e1-9675-b3b3f5301caf"
+            }
+        },
+        {
+            "id": "d98efb60-cf04-492e-be3d-39c00b6e5059",
+            "type": "character",
+            "attributes": {
+                "slug": "agatha-chubb",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Ancient Wizarding Artefacts Researcher"
+                ],
+                "marital_status": null,
+                "name": "Agatha Chubb",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Agatha_Chubb"
+            },
+            "links": {
+                "self": "/v1/characters/d98efb60-cf04-492e-be3d-39c00b6e5059"
+            }
+        },
+        {
+            "id": "27f9544b-40ea-4160-b980-046b64b9d60a",
+            "type": "character",
+            "attributes": {
+                "slug": "agatha-haggarty",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before or in the 17th century",
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Pádraic Haggarty (descendant)",
+                    "Catrin Haggarty (descendant)",
+                    "Haggarty family"
+                ],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Agatha Haggarty",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Agatha_Haggarty"
+            },
+            "links": {
+                "self": "/v1/characters/27f9544b-40ea-4160-b980-046b64b9d60a"
+            }
+        },
+        {
+            "id": "febc4c73-a33f-4736-b18a-0c152fa58aeb",
+            "type": "character",
+            "attributes": {
+                "slug": "agatha-thrussington",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "31 August 1982 or earlier",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": "Hufflepuff",
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Agatha Thrussington",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Agatha_Thrussington"
+            },
+            "links": {
+                "self": "/v1/characters/febc4c73-a33f-4736-b18a-0c152fa58aeb"
+            }
+        },
+        {
+            "id": "987e3a6e-653f-490c-b349-474a65ab9086",
+            "type": "character",
+            "attributes": {
+                "slug": "agatha-timms",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Eel farmer"
+                ],
+                "marital_status": null,
+                "name": "Agatha Timms",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Agatha_Timms"
+            },
+            "links": {
+                "self": "/v1/characters/987e3a6e-653f-490c-b349-474a65ab9086"
+            }
+        },
+        {
+            "id": "cb25f26c-c7bc-4aeb-adb3-6a5d5023f6ab",
+            "type": "character",
+            "attributes": {
+                "slug": "aged-witch",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/2/2d/Aged_witch.gif",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Aged witch",
+                "nationality": "British",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Aged_witch"
+            },
+            "links": {
+                "self": "/v1/characters/cb25f26c-c7bc-4aeb-adb3-6a5d5023f6ab"
+            }
+        },
+        {
+            "id": "72c6b6a0-2ed3-4257-a29c-4ca1fbe0e046",
+            "type": "character",
+            "attributes": {
+                "slug": "agilbert-fontaine",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Theodard Fontaine (ancestor)",
+                    "Fontaine family"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Headmaster of Ilvermorny School of Witchcraft and Wizardry(c. 2016)"
+                ],
+                "marital_status": null,
+                "name": "Agilbert Fontaine",
+                "nationality": "American",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [
+                    "Headmaster",
+                    "Professor"
+                ],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Agilbert_Fontaine"
+            },
+            "links": {
+                "self": "/v1/characters/72c6b6a0-2ed3-4257-a29c-4ca1fbe0e046"
+            }
+        },
+        {
+            "id": "b368c26e-7d7c-4087-9a16-6824a34cb2b4",
+            "type": "character",
+            "attributes": {
+                "slug": "agnes-st-mungo-s",
+                "alias_names": [],
+                "animagus": "Dog (probably, failed)",
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Son"
+                ],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/c/cb/Agnes.png",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Agnes",
+                "nationality": "British",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Agnes_(St_Mungo's)"
+            },
+            "links": {
+                "self": "/v1/characters/b368c26e-7d7c-4087-9a16-6824a34cb2b4"
+            }
+        },
+        {
+            "id": "bc2f9af0-12cd-4681-bb47-ef1ad29c940f",
+            "type": "character",
+            "attributes": {
+                "slug": "agnes-coffey",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": "Brown",
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": "Light brown",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/4/45/Agnes_Coffey_HL.png",
+                "jobs": [
+                    "Fashion model",
+                    "Garment seller"
+                ],
+                "marital_status": null,
+                "name": "Agnes Coffey",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Agnes_Coffey"
+            },
+            "links": {
+                "self": "/v1/characters/bc2f9af0-12cd-4681-bb47-ef1ad29c940f"
+            }
+        },
+        {
+            "id": "d385c96c-bd19-417b-9d32-acb20a5450c0",
+            "type": "character",
+            "attributes": {
+                "slug": "agnes-monkleigh",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "31 August 1982 or earlier",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": "Red",
+                "height": null,
+                "house": "Slytherin",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/0/09/Agnes_Monkleigh.jpg",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Agnes Monkleigh",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "White",
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Agnes_Monkleigh"
+            },
+            "links": {
+                "self": "/v1/characters/d385c96c-bd19-417b-9d32-acb20a5450c0"
+            }
+        },
+        {
+            "id": "62fa21e6-0163-4407-9bc2-d423c3129ca6",
+            "type": "character",
+            "attributes": {
+                "slug": "agnes-nutt",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Agnes Nutt",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Agnes_Nutt"
+            },
+            "links": {
+                "self": "/v1/characters/62fa21e6-0163-4407-9bc2-d423c3129ca6"
+            }
+        },
+        {
+            "id": "e5894328-bebe-40fa-887c-d9b61f9a3eef",
+            "type": "character",
+            "attributes": {
+                "slug": "agnes-scribner",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before 1890",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": "Grey",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/0/03/Agnes_Scribner_HL.png",
+                "jobs": [
+                    "Hogwarts librarian"
+                ],
+                "marital_status": null,
+                "name": "Agnes Scribner",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [
+                    "Head Librarian"
+                ],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Agnes_Scribner"
+            },
+            "links": {
+                "self": "/v1/characters/e5894328-bebe-40fa-887c-d9b61f9a3eef"
+            }
+        },
+        {
+            "id": "8d0bbec2-6ec1-4eb5-90a0-79a12741ac05",
+            "type": "character",
+            "attributes": {
+                "slug": "agnes-s-son",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Agnes (mother)"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Agnes's son",
+                "nationality": "British",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Agnes's_son"
+            },
+            "links": {
+                "self": "/v1/characters/8d0bbec2-6ec1-4eb5-90a0-79a12741ac05"
+            }
+        },
+        {
+            "id": "970fbc20-4cdd-43aa-81e0-ff6c93c8c062",
+            "type": "character",
+            "attributes": {
+                "slug": "aidan-kiely",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "1981 or earlier",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Seeker of the Kenmare Kestrels"
+                ],
+                "marital_status": null,
+                "name": "Aidan Kiely",
+                "nationality": "Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": null,
+                "titles": [
+                    "Seeker"
+                ],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Aidan_Kiely"
+            },
+            "links": {
+                "self": "/v1/characters/970fbc20-4cdd-43aa-81e0-ff6c93c8c062"
+            }
+        },
+        {
+            "id": "77d42868-8fbd-4e8c-8755-d359c8827387",
+            "type": "character",
+            "attributes": {
+                "slug": "aidan-lynch",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/e/e5/Irish_National_Quidditch_team.jpg",
+                "jobs": [
+                    "Seeker for the Irish National Quidditch team"
+                ],
+                "marital_status": null,
+                "name": "Aidan Lynch",
+                "nationality": "Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [
+                    "Seeker"
+                ],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Aidan_Lynch"
+            },
+            "links": {
+                "self": "/v1/characters/77d42868-8fbd-4e8c-8755-d359c8827387"
+            }
+        },
+        {
+            "id": "6a1c8b96-14a1-412d-9683-c98e8d8dadb4",
+            "type": "character",
+            "attributes": {
+                "slug": "aidan-sprottle",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": "Before 1890",
+                "eye_color": null,
+                "family_members": [
+                    "Dorothy Sprottle (wife)"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": "Married",
+                "name": "Aidan Sprottle",
+                "nationality": null,
+                "patronus": null,
+                "romances": [
+                    "Dorothy Sprottle (wife)"
+                ],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Aidan_Sprottle"
+            },
+            "links": {
+                "self": "/v1/characters/6a1c8b96-14a1-412d-9683-c98e8d8dadb4"
+            }
+        },
+        {
+            "id": "2c12872b-7901-49ee-bd74-bbbca78d8b05",
+            "type": "character",
+            "attributes": {
+                "slug": "aiden-o-connor",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "31 August 1982 or earlier",
+                "died": null,
+                "eye_color": "Green",
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": "Brown",
+                "height": null,
+                "house": "Gryffindor",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/2/25/Aiden_O%27Connor.png",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Aiden O'Connor",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Aiden_O'Connor"
+            },
+            "links": {
+                "self": "/v1/characters/2c12872b-7901-49ee-bd74-bbbca78d8b05"
+            }
+        },
+        {
+            "id": "7f5db4c9-7339-490d-a0b8-123b38881410",
+            "type": "character",
+            "attributes": {
+                "slug": "ailsa-travers",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Pure-blood or half-blood",
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": "Brown",
+                "family_members": [
+                    "Thaddeus Travers (possible relative)",
+                    "Torquil Travers (possible relative) †",
+                    "Travers (possible relative)",
+                    "Sloan Travers (possible relative)",
+                    "Travers family"
+                ],
+                "gender": "Female",
+                "hair_color": "Brown",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/4/42/Ailsa_Travers_HL.png",
+                "jobs": [
+                    "Ashwinder"
+                ],
+                "marital_status": null,
+                "name": "Ailsa Travers",
+                "nationality": "British",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "White",
+                "species": "Human",
+                "titles": [],
+                "wands": [
+                    "Unknown length, wood and core"
+                ],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Ailsa_Travers"
+            },
+            "links": {
+                "self": "/v1/characters/7f5db4c9-7339-490d-a0b8-123b38881410"
+            }
+        },
+        {
+            "id": "1b7a05de-c9a5-49cf-90f2-ab828c23c912",
+            "type": "character",
+            "attributes": {
+                "slug": "aisha",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Mother"
+                ],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Aisha",
+                "nationality": null,
+                "patronus": null,
+                "romances": [
+                    "Mathilda Grimblehawk"
+                ],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Aisha"
+            },
+            "links": {
+                "self": "/v1/characters/1b7a05de-c9a5-49cf-90f2-ab828c23c912"
+            }
+        },
+        {
+            "id": "bb6717a3-a48d-48f6-bade-f5e211fcbf4d",
+            "type": "character",
+            "attributes": {
+                "slug": "aisha-s-mother",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Aisha (daughter)"
+                ],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Aisha's mother",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Aisha's_mother"
+            },
+            "links": {
+                "self": "/v1/characters/bb6717a3-a48d-48f6-bade-f5e211fcbf4d"
+            }
+        },
+        {
+            "id": "e7c96c1d-41e2-4dc6-aeb1-0bd650e3b406",
+            "type": "character",
+            "attributes": {
+                "slug": "aki-sugiyama",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "31 August 1982 or earlier",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": "Hufflepuff",
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Aki Sugiyama",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Aki_Sugiyama"
+            },
+            "links": {
+                "self": "/v1/characters/e7c96c1d-41e2-4dc6-aeb1-0bd650e3b406"
+            }
+        },
+        {
+            "id": "17c14680-224c-441e-b450-bdc1f7eb31b0",
+            "type": "character",
+            "attributes": {
+                "slug": "alain-lacroix",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": "Green",
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": "Brown",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/4/49/Alain_Lacroix.png",
+                "jobs": [
+                    "Beater for the French National Quidditch team"
+                ],
+                "marital_status": null,
+                "name": "Alain Lacroix",
+                "nationality": "French",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "White",
+                "species": "Human",
+                "titles": [
+                    "Beater"
+                ],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Alain_Lacroix"
+            },
+            "links": {
+                "self": "/v1/characters/17c14680-224c-441e-b450-bdc1f7eb31b0"
+            }
+        },
+        {
+            "id": "6231bca4-1bb6-47e0-9d0f-c62c6a116f49",
+            "type": "character",
+            "attributes": {
+                "slug": "alannis",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "31 August 1985 or earlier",
+                "died": null,
+                "eye_color": "Brown",
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": "Blonde",
+                "height": null,
+                "house": "Ravenclaw",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d5/Alannis.jpg",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Alannis",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [
+                    "Duelling Club Captain",
+                    "Ravenclaw House Champion"
+                ],
+                "wands": [
+                    "Unknown length, wood and core"
+                ],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Alannis"
+            },
+            "links": {
+                "self": "/v1/characters/6231bca4-1bb6-47e0-9d0f-c62c6a116f49"
+            }
+        },
+        {
+            "id": "16e1d7ff-d2c2-483b-ab00-c1aa215c1237",
+            "type": "character",
+            "attributes": {
+                "slug": "alannis-shepley",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "31 August 1982 or earlier",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": "Ravenclaw",
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Alannis Shepley",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Alannis_Shepley"
+            },
+            "links": {
+                "self": "/v1/characters/16e1d7ff-d2c2-483b-ab00-c1aa215c1237"
+            }
+        },
+        {
+            "id": "d46949a7-4ce3-41ac-a9e9-3af9aac1f3f0",
+            "type": "character",
+            "attributes": {
+                "slug": "alanza-alves",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Pure-blood or half-blood",
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": "Light brown",
+                "family_members": [
+                    "Grandmother",
+                    "Alves family"
+                ],
+                "gender": "Female",
+                "hair_color": "Brown",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/8/8a/Alanza_Alves_HM8.png",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Alanza Alves",
+                "nationality": "Brazilian",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Caramel",
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Alanza_Alves"
+            },
+            "links": {
+                "self": "/v1/characters/d46949a7-4ce3-41ac-a9e9-3af9aac1f3f0"
+            }
+        },
+        {
+            "id": "ea113add-f30b-40ff-a729-5cc0cde5e193",
+            "type": "character",
+            "attributes": {
+                "slug": "alanza-alves-s-grandmother",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before 1973",
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Alanza Alves (granddaughter)",
+                    "Alves family"
+                ],
+                "gender": "Female",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Alanza Alves's grandmother",
+                "nationality": "Brazilian",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Alanza_Alves's_grandmother"
+            },
+            "links": {
+                "self": "/v1/characters/ea113add-f30b-40ff-a729-5cc0cde5e193"
+            }
+        },
+        {
+            "id": "7618553b-1359-419b-9ae2-0a7dbb536f53",
+            "type": "character",
+            "attributes": {
+                "slug": "alasdair-maddock",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before 1981",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Chaser for the Montrose Magpies (formerly)"
+                ],
+                "marital_status": null,
+                "name": "Alasdair Maddock",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [
+                    "Chaser (formerly)"
+                ],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Alasdair_Maddock"
+            },
+            "links": {
+                "self": "/v1/characters/7618553b-1359-419b-9ae2-0a7dbb536f53"
+            }
+        },
+        {
+            "id": "80a811b3-d372-4fe8-be5b-76ea5e74323d",
+            "type": "character",
+            "attributes": {
+                "slug": "alastair",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Pre 1991",
+                "died": null,
+                "eye_color": "Black",
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": "Brown or black",
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Alastair",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Spider",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Alastair"
+            },
+            "links": {
+                "self": "/v1/characters/80a811b3-d372-4fe8-be5b-76ea5e74323d"
+            }
+        },
+        {
+            "id": "447eb815-c7e3-47bb-a2d0-f7611ba64531",
+            "type": "character",
+            "attributes": {
+                "slug": "alastor-gumboil",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before 1982",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Hit Wizard"
+                ],
+                "marital_status": null,
+                "name": "Alastor Gumboil",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Alastor_Gumboil"
+            },
+            "links": {
+                "self": "/v1/characters/447eb815-c7e3-47bb-a2d0-f7611ba64531"
+            }
+        },
+        {
+            "id": "eb38191e-5dcf-4257-b307-410a1b5bc6dd",
+            "type": "character",
+            "attributes": {
+                "slug": "alastor-moody",
+                "alias_names": [
+                    "Mad-Eye"
+                ],
+                "animagus": null,
+                "blood_status": "Pure-blood",
+                "boggart": "Lord Voldemort",
+                "born": "Before 1959",
+                "died": "27 July 1997 (aged at least 38), South England, Great Britain",
+                "eye_color": "One dark, one electric blue",
+                "family_members": [
+                    "Father †",
+                    "Mother †"
+                ],
+                "gender": "Male",
+                "hair_color": "Grey",
+                "height": "6'2'",
+                "house": "Unknown",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/4/4d/MoodyProfile.png",
+                "jobs": [
+                    "Auror (Retired)"
+                ],
+                "marital_status": "Single",
+                "name": "Alastor Moody",
+                "nationality": "British or Irish",
+                "patronus": "Non-corporeal",
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [
+                    "Unknown length, wood and core"
+                ],
+                "weight": "183 lbs",
+                "wiki": "https://harrypotter.fandom.com/wiki/Alastor_Moody"
+            },
+            "links": {
+                "self": "/v1/characters/eb38191e-5dcf-4257-b307-410a1b5bc6dd"
+            }
+        },
+        {
+            "id": "c0accb1a-d155-49eb-832a-d348ef3831e6",
+            "type": "character",
+            "attributes": {
+                "slug": "albanian-peasant",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Muggle",
+                "boggart": null,
+                "born": null,
+                "died": "After 1946",
+                "eye_color": null,
+                "family_members": [],
+                "gender": null,
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Albanian peasant",
+                "nationality": "Albanian",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albanian_peasant"
+            },
+            "links": {
+                "self": "/v1/characters/c0accb1a-d155-49eb-832a-d348ef3831e6"
+            }
+        },
+        {
+            "id": "c279970b-ce9f-4287-bcc4-806cfba8981f",
+            "type": "character",
+            "attributes": {
+                "slug": "alberic-grunnion",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "1803",
+                "died": "1882 (aged 78–79)",
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": "White",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/6/64/Alberic_Grunnion_HM.png",
+                "jobs": [
+                    "Inventor"
+                ],
+                "marital_status": null,
+                "name": "Alberic Grunnion",
+                "nationality": "British",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "White",
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Alberic_Grunnion"
+            },
+            "links": {
+                "self": "/v1/characters/c279970b-ce9f-4287-bcc4-806cfba8981f"
+            }
+        },
+        {
+            "id": "74e6693f-de61-4316-8472-cdbe7670a3a9",
+            "type": "character",
+            "attributes": {
+                "slug": "albert",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "On or prior to 31 August 1981,",
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Marilyn (possibly)",
+                    "Arthur (possibly)"
+                ],
+                "gender": "Male",
+                "hair_color": "Blond",
+                "height": null,
+                "house": "Hufflepuff",
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Albert",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albert"
+            },
+            "links": {
+                "self": "/v1/characters/74e6693f-de61-4316-8472-cdbe7670a3a9"
+            }
+        },
+        {
+            "id": "9a366771-4e5a-4c40-9988-a8abe542d8c4",
+            "type": "character",
+            "attributes": {
+                "slug": "albert-no-maj",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "No-Maj",
+                "boggart": null,
+                "born": "Before 1932",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1c/Albert_%28No-Maj%29_SOD.jpeg",
+                "jobs": [
+                    "Employee at Kowalski Quality Baked Goods"
+                ],
+                "marital_status": null,
+                "name": "Albert",
+                "nationality": "American",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albert_(No-Maj)"
+            },
+            "links": {
+                "self": "/v1/characters/9a366771-4e5a-4c40-9988-a8abe542d8c4"
+            }
+        },
+        {
+            "id": "4e6172d5-4650-47de-b04f-3b081e4713e6",
+            "type": "character",
+            "attributes": {
+                "slug": "alberta-toothill",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "1391, England",
+                "died": "1483 (aged 91–92)",
+                "eye_color": "Blue",
+                "family_members": [],
+                "gender": "Female",
+                "hair_color": "Grey (formerly ginger)",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/6/63/Alberta_Toothill.jpg",
+                "jobs": [
+                    "Professional Duellist"
+                ],
+                "marital_status": null,
+                "name": "Alberta Toothill",
+                "nationality": "English",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "White",
+                "species": "Human",
+                "titles": [
+                    "Duelling Champion"
+                ],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Alberta_Toothill"
+            },
+            "links": {
+                "self": "/v1/characters/4e6172d5-4650-47de-b04f-3b081e4713e6"
+            }
+        },
+        {
+            "id": "1da28abc-3115-4513-bf9b-bed202e8d4fe",
+            "type": "character",
+            "attributes": {
+                "slug": "albert-bellchant",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Pure-blood or half-blood",
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Astor Bellchant (father)",
+                    "Bellchant family"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Albert Bellchant",
+                "nationality": "British or Irish",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albert_Bellchant"
+            },
+            "links": {
+                "self": "/v1/characters/1da28abc-3115-4513-bf9b-bed202e8d4fe"
+            }
+        },
+        {
+            "id": "bd9cb03f-a9fb-468b-a1c1-56bb1c3f5d52",
+            "type": "character",
+            "attributes": {
+                "slug": "albert-boot",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Pure-blood or half-blood",
+                "boggart": null,
+                "born": "Before 1730",
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Boot family"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "British Minister for Magic (1747–1752)"
+                ],
+                "marital_status": null,
+                "name": "Albert Boot",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [
+                    "Minister for Magic"
+                ],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albert_Boot"
+            },
+            "links": {
+                "self": "/v1/characters/bd9cb03f-a9fb-468b-a1c1-56bb1c3f5d52"
+            }
+        },
+        {
+            "id": "b6cd634a-6d89-4df3-aaf7-02702cd65bb8",
+            "type": "character",
+            "attributes": {
+                "slug": "albert-einstein",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Muggle",
+                "boggart": null,
+                "born": "14 March 1879",
+                "died": "18 April 1955",
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Theoretical physicist"
+                ],
+                "marital_status": null,
+                "name": "Albert Einstein",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albert_Einstein"
+            },
+            "links": {
+                "self": "/v1/characters/b6cd634a-6d89-4df3-aaf7-02702cd65bb8"
+            }
+        },
+        {
+            "id": "b94777f5-19eb-4521-b0a8-76f3313b500a",
+            "type": "character",
+            "attributes": {
+                "slug": "albert-stump",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "1662",
+                "died": "After 1700",
+                "eye_color": null,
+                "family_members": [
+                    "Google Stump (possibly)",
+                    "Grogan Stump (possible descendant)",
+                    "Tobias Stump (possible descendant)",
+                    "Stump family"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/f/fa/AlbertGibberingStump2.jpg",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Albert Gibbering Stump",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albert_Stump"
+            },
+            "links": {
+                "self": "/v1/characters/b94777f5-19eb-4521-b0a8-76f3313b500a"
+            }
+        },
+        {
+            "id": "cc6e82b6-80cb-498f-aa68-5d3920b76af9",
+            "type": "character",
+            "attributes": {
+                "slug": "albert-jorkins",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "before 1981",
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Primrose Jorkins (wife)",
+                    "Grimwold Jorkins (son)",
+                    "Granville Jorkins (son)",
+                    "Griselda Jorkins (daughter)",
+                    "Bertha Jorkins (possible)",
+                    "Stamford Jorkins (possible)"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": "Married",
+                "name": "Albert Jorkins",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albert_Jorkins"
+            },
+            "links": {
+                "self": "/v1/characters/cc6e82b6-80cb-498f-aa68-5d3920b76af9"
+            }
+        },
+        {
+            "id": "b231da50-360a-426a-8c71-1d80df7b2438",
+            "type": "character",
+            "attributes": {
+                "slug": "albert-mccausland",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "No-Maj",
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "President of Steen National Bank"
+                ],
+                "marital_status": null,
+                "name": "Albert L. McCausland",
+                "nationality": "American",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albert_McCausland"
+            },
+            "links": {
+                "self": "/v1/characters/b231da50-360a-426a-8c71-1d80df7b2438"
+            }
+        },
+        {
+            "id": "0d09eaec-953e-4ca8-8629-3926553db8df",
+            "type": "character",
+            "attributes": {
+                "slug": "alberto-macellarius",
+                "alias_names": [
+                    "The Rat"
+                ],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": "Bald",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1f/AlbertoMacellarius.jpg",
+                "jobs": [
+                    "Con artist"
+                ],
+                "marital_status": null,
+                "name": "Alberto Macellarius",
+                "nationality": "American",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Alberto_Macellarius"
+            },
+            "links": {
+                "self": "/v1/characters/0d09eaec-953e-4ca8-8629-3926553db8df"
+            }
+        },
+        {
+            "id": "98791fe0-39f3-4e36-b226-8e98fe9cca7a",
+            "type": "character",
+            "attributes": {
+                "slug": "albert-perschky",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": "Bald",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/d/dc/Albert_V_Perschky.png",
+                "jobs": [
+                    "Apparition Examiner"
+                ],
+                "marital_status": null,
+                "name": "Albert Perschky",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albert_Perschky"
+            },
+            "links": {
+                "self": "/v1/characters/98791fe0-39f3-4e36-b226-8e98fe9cca7a"
+            }
+        },
+        {
+            "id": "841aaf93-c9c3-4e6a-a519-2aadcd93aa77",
+            "type": "character",
+            "attributes": {
+                "slug": "albert-runcorn",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Pure-blood or half-blood",
+                "boggart": null,
+                "born": "Pre 1980",
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Runcorn (possibly)"
+                ],
+                "gender": "Male",
+                "hair_color": "Black",
+                "height": "Over 6'",
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/6/6f/RuncornProfile.png",
+                "jobs": [
+                    "British Ministry of Magic official"
+                ],
+                "marital_status": null,
+                "name": "Albert Runcorn",
+                "nationality": null,
+                "patronus": "Non-corporeal",
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albert_Runcorn"
+            },
+            "links": {
+                "self": "/v1/characters/841aaf93-c9c3-4e6a-a519-2aadcd93aa77"
+            }
+        },
+        {
+            "id": "b826df3d-ad80-4a67-ae64-9649bc07923a",
+            "type": "character",
+            "attributes": {
+                "slug": "albert-sallow",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": null,
+                "eye_color": null,
+                "family_members": [
+                    "Solomon Sallow (possible relative) †",
+                    "Sallow siblings' parents (possible relatives) †",
+                    "Anne Sallow (possible relative)",
+                    "Sebastian Sallow (possible relative)",
+                    "Sallow family"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [
+                    "Unspeakable"
+                ],
+                "marital_status": null,
+                "name": "Albert Sallow",
+                "nationality": "British",
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albert_Sallow"
+            },
+            "links": {
+                "self": "/v1/characters/b826df3d-ad80-4a67-ae64-9649bc07923a"
+            }
+        },
+        {
+            "id": "31b5ab85-7c5a-4404-9b22-413de79c546d",
+            "type": "character",
+            "attributes": {
+                "slug": "albert-tillyman",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": "1875",
+                "eye_color": null,
+                "family_members": [
+                    "Violet Tillyman (wife)",
+                    "Mother-in-law"
+                ],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": "Married",
+                "name": "Albert Tillyman",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albert_Tillyman"
+            },
+            "links": {
+                "self": "/v1/characters/31b5ab85-7c5a-4404-9b22-413de79c546d"
+            }
+        },
+        {
+            "id": "a5850757-ed44-49e6-931c-bdd01f3d90e9",
+            "type": "character",
+            "attributes": {
+                "slug": "albie-weekes",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before 1890",
+                "died": null,
+                "eye_color": "Brown",
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": "Brown",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/9/95/Albie_Weekes.png",
+                "jobs": [
+                    "Broom vendor at Spintwitches Sporting Needs"
+                ],
+                "marital_status": null,
+                "name": "Albie Weekes",
+                "nationality": "British",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albie_Weekes"
+            },
+            "links": {
+                "self": "/v1/characters/a5850757-ed44-49e6-931c-bdd01f3d90e9"
+            }
+        },
+        {
+            "id": "d06e9320-8688-4366-949e-b4c0b026bb70",
+            "type": "character",
+            "attributes": {
+                "slug": "albino-peacock",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Pre 1997",
+                "died": null,
+                "eye_color": "Black",
+                "family_members": [],
+                "gender": "Male",
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/e/eb/Severus_Snape_and_Corban_Yaxley_entering_Malfoy_Manor.jpg",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Albino peacock",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Peacock",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albino_peacock"
+            },
+            "links": {
+                "self": "/v1/characters/d06e9320-8688-4366-949e-b4c0b026bb70"
+            }
+        },
+        {
+            "id": "7b789750-9c1e-450e-aa08-bb8b70098f91",
+            "type": "character",
+            "attributes": {
+                "slug": "albus-dumbledore-s-great-great-grandfather-s-phoenix",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": null,
+                "died": "Immortal",
+                "eye_color": "Black",
+                "family_members": [],
+                "gender": null,
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Albus Dumbledore's great-great-grandfather's phoenix",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Phoenix",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore's_great-great-grandfather's_phoenix"
+            },
+            "links": {
+                "self": "/v1/characters/7b789750-9c1e-450e-aa08-bb8b70098f91"
+            }
+        },
+        {
+            "id": "80a6d28e-05b4-4e1f-b340-2f1e7ef1d010",
+            "type": "character",
+            "attributes": {
+                "slug": "albus-dumbledore",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": "Half-blood",
+                "boggart": "The corpse of his sister, Ariana",
+                "born": "Between 16 and 31 August 1881, Mould-on-the-Wold, England, Great Britain",
+                "died": "30 June 1997 (aged 115), Astronomy Tower, Hogwarts Castle, Highlands, Scotland, Great Britain",
+                "eye_color": "Blue",
+                "family_members": [
+                    "Percival Dumbledore (father) †",
+                    "Kendra Dumbledore (mother) †",
+                    "Aberforth Dumbledore (younger brother)",
+                    "Ariana Dumbledore (younger sister) †",
+                    "Aurelius Dumbledore (biological nephew)",
+                    "Honoria (aunt)",
+                    "Dumbledore family"
+                ],
+                "gender": "Male",
+                "hair_color": "Auburn (originally), Silver",
+                "height": "5'11'",
+                "house": "Gryffindor",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/4/40/Albus_Dumbledore_%28HBP_promo%29_3.jpg",
+                "jobs": [
+                    "Professor of Defence Against the Dark Arts at Hogwarts (1910s)",
+                    "Head of Transfiguration department (?-pre 1955)",
+                    "Columnist for Transfiguration Today (1926–?)",
+                    "Headmaster of Hogwarts (pre 1971–1997)",
+                    "Supreme Mugwump of the International Confederation of Wizards (?–1995)"
+                ],
+                "marital_status": "Single",
+                "name": "Albus Percival Wulfric Brian Dumbledore",
+                "nationality": "English",
+                "patronus": "Phoenix",
+                "romances": [
+                    "Gellert Grindelwald (former lover) †"
+                ],
+                "skin_color": "Fair",
+                "species": "Human",
+                "titles": [
+                    "Prefect",
+                    "Head Boy",
+                    "Professor",
+                    "Head of Transfiguration (formerly)",
+                    "Headmaster",
+                    "Grand Sorcerer",
+                    "Supreme Mugwump (formerly)",
+                    "Chief Warlock"
+                ],
+                "wands": [
+                    "Unknown length, wood and core (formerly)",
+                    "15', Elder, Thestral tail hair core"
+                ],
+                "weight": "175 lbs (formerly; 1932), 168 lbs (1997)",
+                "wiki": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
+            },
+            "links": {
+                "self": "/v1/characters/80a6d28e-05b4-4e1f-b340-2f1e7ef1d010"
+            }
+        },
+        {
+            "id": "c044ef83-cc32-468a-bdf1-440b61c74d41",
+            "type": "character",
+            "attributes": {
+                "slug": "albus-potter-s-ferret",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "2017 or earlier",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": null,
+                "hair_color": "Grey and black",
+                "height": null,
+                "house": null,
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/0/04/Ferret.jpg",
+                "jobs": [],
+                "marital_status": null,
+                "name": "Albus Potter's ferret",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Ferret",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albus_Potter's_ferret"
+            },
+            "links": {
+                "self": "/v1/characters/c044ef83-cc32-468a-bdf1-440b61c74d41"
+            }
+        },
+        {
+            "id": "fe570e82-b810-40eb-b119-5f09c3972538",
+            "type": "character",
+            "attributes": {
+                "slug": "albus-potter-s-owl",
+                "alias_names": [],
+                "animagus": null,
+                "blood_status": null,
+                "boggart": null,
+                "born": "Before 2017",
+                "died": null,
+                "eye_color": null,
+                "family_members": [],
+                "gender": null,
+                "hair_color": null,
+                "height": null,
+                "house": null,
+                "image": null,
+                "jobs": [],
+                "marital_status": null,
+                "name": "Albus Potter's owl",
+                "nationality": null,
+                "patronus": null,
+                "romances": [],
+                "skin_color": null,
+                "species": "Owl",
+                "titles": [],
+                "wands": [],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albus_Potter's_owl"
+            },
+            "links": {
+                "self": "/v1/characters/fe570e82-b810-40eb-b119-5f09c3972538"
+            }
+        },
+        {
+            "id": "880e14ac-dcff-4e60-8138-bbcf788bfab8",
+            "type": "character",
+            "attributes": {
+                "slug": "albus-potter",
+                "alias_names": [
+                    "Al (by Harry Potter)",
+                    "Slytherin Squib (by Karl Jenkins)",
+                    "Ronald Weasley (under disguise of Polyjuice Potion)"
+                ],
+                "animagus": null,
+                "blood_status": "Half-blood",
+                "boggart": null,
+                "born": "Between 1 September 2005 and 31 August 2006 Great Britain",
+                "died": null,
+                "eye_color": "Bright green",
+                "family_members": [
+                    "Harry Potter (father)",
+                    "Ginevra Potter (née Weasley) (mother)",
+                    "James Potter II (older brother)",
+                    "Lily L. Potter (younger sister)",
+                    "William Weasley (maternal uncle)",
+                    "Charles Weasley (maternal uncle)",
+                    "Percy Weasley (maternal uncle)",
+                    "Fred Weasley (maternal uncle) †",
+                    "George Weasley (maternal uncle)",
+                    "Ronald Weasley (maternal uncle)",
+                    "Fleur Weasley (née Delacour) (maternal aunt by marriage)",
+                    "Audrey Weasley (maternal aunt by marriage)",
+                    "Angelina Johnson (maternal aunt by marriage)",
+                    "Hermione Granger (maternal aunt by marriage)",
+                    "Padma Patil (maternal aunt by marriage in alternate timeline)",
+                    "Victoire Weasley (maternal first cousin)",
+                    "Dominique Weasley (maternal first cousin)",
+                    "Louis Weasley (maternal first cousin)",
+                    "Molly Weasley II (maternal first cousin)",
+                    "Lucy Weasley (maternal first cousin)",
+                    "Fred Weasley II (maternal first cousin)",
+                    "Roxanne Weasley (maternal first cousin)",
+                    "Rose Granger-Weasley (maternal first cousin)",
+                    "Hugo Granger-Weasley (maternal first cousin)",
+                    "Panju Weasley (maternal first cousin in alternate timeline)",
+                    "James Potter I (paternal grandfather) †",
+                    "Lily J. Potter (née Evans) (paternal grandmother) †",
+                    "Arthur Weasley (maternal grandfather)",
+                    "Molly Weasley (née Prewett) (maternal grandmother)",
+                    "Linfred of Stinchcombe (paternal ancestor) †",
+                    "Ignotus Peverell (paternal ancestor) †",
+                    "Paternal ancestor †",
+                    "Hardwin Potter (paternal ancestor) †",
+                    "Iolanthe Peverell (paternal ancestor) †",
+                    "Ralston Potter (possible paternal relative) †",
+                    "Charlus Potter (possible paternal relative) †",
+                    "Possible paternal relative †",
+                    "Potter family (paternal family)",
+                    "Weasley family (maternal family)"
+                ],
+                "gender": "Male",
+                "hair_color": "Jet-black",
+                "height": null,
+                "house": "Slytherin",
+                "image": "https://static.wikia.nocookie.net/harrypotter/images/e/e7/AlbusPotterWand.jpeg",
+                "jobs": [],
+                "marital_status": "Single",
+                "name": "Albus Severus Potter",
+                "nationality": "English",
+                "patronus": null,
+                "romances": [],
+                "skin_color": "Light",
+                "species": "Human",
+                "titles": [],
+                "wands": [
+                    "Unknown length, Cherry and core"
+                ],
+                "weight": null,
+                "wiki": "https://harrypotter.fandom.com/wiki/Albus_Potter"
+            },
+            "links": {
+                "self": "/v1/characters/880e14ac-dcff-4e60-8138-bbcf788bfab8"
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "current": 1,
+            "next": 2,
+            "last": 47,
+            "records": 4675
+        },
+        "copyright": "Copyright © Potter DB 2024",
+        "generated_at": "2024-02-20T23:11:47.653Z"
+    },
+    "links": {
+        "self": "https://api.potterdb.com/v1/characters",
+        "current": "https://api.potterdb.com/v1/characters?page[number]=1",
+        "next": "https://api.potterdb.com/v1/characters?page[number]=2",
+        "last": "https://api.potterdb.com/v1/characters?page[number]=47"
+    }
+}
