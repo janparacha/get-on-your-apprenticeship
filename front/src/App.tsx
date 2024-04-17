@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/get-on-your-apprenticeship">
       <Routes>
         <Route
           path="/"
