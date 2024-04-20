@@ -12,16 +12,6 @@ export interface Student {
 export const AllStudents = () => {
   const [students, setStudents] = useState([]);
 
-  const fetchStudents = async () => {
-    const response = await fetch("http://localhost:3000/real");
-    const data = await response.json();
-    setStudents(data.data);
-  };
-
-  useEffect(() => {
-    fetchStudents();
-  }, []);
-
   return (
     <>
       <h2>Here is a list of all students:</h2>

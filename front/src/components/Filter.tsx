@@ -4,6 +4,7 @@ import { useSearchParams } from "react-router-dom";
 export const Filter = ({ setStudents }) => {
   const [searchParams, setSearchParams] = useSearchParams();
   const [currentPage, setCurrentPage] = useState(1);
+  const [lastPage, setLastPage] = useState(1);
 
   const house = searchParams.get("house") || "";
   const page = searchParams.get("page") || "";
@@ -17,11 +18,12 @@ export const Filter = ({ setStudents }) => {
         const data = await response.json();
         setStudents(data.data);
         setCurrentPage(data.meta.pagination.current);
+        setLastPage(data.meta.pagination.last);
+        setSearchParams({ page: `${data.meta.pagination.current}`, house: `${house}` });
       };
       fetchStudentsPaginated();
     }
   }, [searchParams]);
-
   return (
     <>
       <select
@@ -37,6 +39,7 @@ export const Filter = ({ setStudents }) => {
         <option value="Hufflepuff">Hufflepuff</option>
         <option value="Ravenclaw">Ravenclaw</option>
       </select>
+
       <button
         disabled={currentPage === 1}
         onClick={() => setSearchParams({ page: `${currentPage - 1}`, house: `${house}` })}
@@ -44,6 +47,7 @@ export const Filter = ({ setStudents }) => {
         Page précédente
       </button>
       <p> Page numéro : {currentPage}</p>
+      <p> Nombre de page : {lastPage || "Dernière page attteinte"}</p>
       <button onClick={() => setSearchParams({ page: `${currentPage + 1}`, house: `${house}` })}>Page suivante </button>
     </>
   );
