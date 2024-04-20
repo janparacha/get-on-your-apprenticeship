@@ -1,20 +1,27 @@
 import React, { useEffect, useState } from "react";
 import { Filter } from "./Filter";
-import { useSearchParams } from "react-router-dom";
 
+export interface Student {
+  id: string;
+  attributes: {
+    name: string;
+    house: string;
+    alias_names: string[];
+  };
+}
 export const AllStudents = () => {
   const [students, setStudents] = useState([]);
-  
+
+  const fetchStudents = async () => {
+    const response = await fetch("http://localhost:3000/real");
+    const data = await response.json();
+    setStudents(data.data);
+  };
 
   useEffect(() => {
-      const fetchStudents = async () => {
-        const response = await fetch("http://localhost:3000/real");
-        const data = await response.json();
-        setStudents(data.data);
-      };
-      fetchStudents();
-    
+    fetchStudents();
   }, []);
+
   return (
     <>
       <h2>Here is a list of all students:</h2>
@@ -30,7 +37,7 @@ export const AllStudents = () => {
             </tr>
           </thead>
           <tbody>
-            {students.map((student) => (
+            {students.map((student: Student) => (
               <tr key={crypto.randomUUID()}>
                 <td>{student.attributes.name}</td>
                 <td>{student.attributes.house ? student.attributes.house : "SDF"}</td>

@@ -20,8 +20,8 @@ interface ResponseWizzards {
 
 interface Meta {
   pagination: {
-    current: number
-  }
+    current: number;
+  };
 }
 
 realRouter.get("/", async function (req, res, next) {
@@ -55,17 +55,15 @@ realRouter.get("/students", async function (req, res, next) {
     let response;
 
     if (house) {
-      response = await fetch(`https://api.potterdb.com/v1/characters?house=${house}`);
-      const { data } = (await response.json()) as ResponseWizzards;
-      const students = data.filter((student) => student.attributes.house === house);
-      res.json(students);
+      response = await fetch(`https://api.potterdb.com/v1/characters?filter[house_eq]=${house}&page[number]=${page}`);
+      const data = (await response.json()) as ResponseWizzards;
+      res.json(data);
     } else {
       response = await fetch(`https://api.potterdb.com/v1/characters?page[number]=${page}`);
       const data = (await response.json()) as ResponseWizzards;
       res.json(data);
     }
-  }
-  catch (error) {
+  } catch (error) {
     console.log(error);
     res.status(500).send("Une erreur est survenue lors de la récupération des données.");
   }
