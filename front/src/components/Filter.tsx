@@ -47,8 +47,13 @@ export const Filter = ({ setStudents }) => {
         Page précédente
       </button>
       <p> Page numéro : {currentPage}</p>
-      <p> Nombre de page : {lastPage || "Dernière page attteinte"}</p>
-      <button onClick={() => setSearchParams({ page: `${currentPage + 1}`, house: `${house}` })}>Page suivante </button>
+      <p> Nombre de page : {lastPage || "Dernière page atteinte"}</p>
+      <button
+        disabled={!lastPage}
+        onClick={() => setSearchParams({ page: `${currentPage + 1}`, house: `${house}` })}
+      >
+        Page suivante
+      </button>
     </>
   );
 };
