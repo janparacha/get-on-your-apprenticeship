@@ -3,8 +3,8 @@ import { useSearchParams } from "react-router-dom";
 
 export const Filter = ({ setStudents }) => {
   const [searchParams, setSearchParams] = useSearchParams();
-  const [currentPage, setCurrentPage] = useState(1);
-  const [lastPage, setLastPage] = useState(1);
+  const [currentPage, setCurrentPage] = useState<number>();
+  const [lastPage, setLastPage] = useState<number>();
 
   const house = searchParams.get("house") || "";
   const page = searchParams.get("page") || "";

@@ -53,12 +53,18 @@ realRouter.get("/students", async function (req, res, next) {
     const house: string = req.query.house;
     let page: number = req.query.page;
     let response;
+    let data;
 
     if (house) {
       response = await fetch(`https://api.potterdb.com/v1/characters?filter[house_eq]=${house}&page[number]=${page}`);
-      let data = (await response.json()) as ResponseWizzards;
-      if (data.meta.pagination.last == null) {
+      data = (await response.json()) as ResponseWizzards;
+      if (!data.meta.pagination.last) {
         response = await fetch(`https://api.potterdb.com/v1/characters?filter[house_eq]=${house}&page[number]=1`);
+        data = (await response.json()) as ResponseWizzards;
+        const lastPage = data.meta.pagination.last;
+        response = await fetch(
+          `https://api.potterdb.com/v1/characters?filter[house_eq]=${house}&page[number]=${lastPage}`
+        );
         data = (await response.json()) as ResponseWizzards;
       }
       res.json(data);
