@@ -50,15 +50,22 @@ realRouter.get("/randomstudent", async function (req, res, next) {
 
 realRouter.get("/students", async function (req, res, next) {
   try {
-    const house = req.query.house;
-    const page = req.query.page;
+    const house: string = req.query.house;
+    let page: number = req.query.page;
     let response;
 
     if (house) {
       response = await fetch(`https://api.potterdb.com/v1/characters?filter[house_eq]=${house}&page[number]=${page}`);
-      const data = (await response.json()) as ResponseWizzards;
+      let data = (await response.json()) as ResponseWizzards;
+      if (data.meta.pagination.last == null) {
+        response = await fetch(`https://api.potterdb.com/v1/characters?filter[house_eq]=${house}&page[number]=1`);
+        data = (await response.json()) as ResponseWizzards;
+      }
       res.json(data);
     } else {
+      if (page >= 47) {
+        page = 47;
+      }
       response = await fetch(`https://api.potterdb.com/v1/characters?page[number]=${page}`);
       const data = (await response.json()) as ResponseWizzards;
       res.json(data);
