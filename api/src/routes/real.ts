@@ -21,6 +21,7 @@ interface ResponseWizzards {
 interface Meta {
   pagination: {
     current: number;
+    last: number;
   };
 }
 
@@ -50,8 +51,8 @@ realRouter.get("/randomstudent", async function (req, res, next) {
 
 realRouter.get("/students", async function (req, res, next) {
   try {
-    const house: string = req.query.house;
-    let page: number = req.query.page;
+    const house = req.query.house;
+    let page = req.query.page;
     let response;
     let data;
 
@@ -61,7 +62,7 @@ realRouter.get("/students", async function (req, res, next) {
       if (!data.meta.pagination.last) {
         response = await fetch(`https://api.potterdb.com/v1/characters?filter[house_eq]=${house}&page[number]=1`);
         data = (await response.json()) as ResponseWizzards;
-        const lastPage = data.meta.pagination.last;
+        const lastPage = data.meta.pagination?.last;
         response = await fetch(
           `https://api.potterdb.com/v1/characters?filter[house_eq]=${house}&page[number]=${lastPage}`
         );
@@ -69,8 +70,8 @@ realRouter.get("/students", async function (req, res, next) {
       }
       res.json(data);
     } else {
-      if (page >= 47) {
-        page = 47;
+      if (typeof page === 'string' && parseInt(page) >= 47) {
+        page = '47';
       }
       response = await fetch(`https://api.potterdb.com/v1/characters?page[number]=${page}`);
       const data = (await response.json()) as ResponseWizzards;
