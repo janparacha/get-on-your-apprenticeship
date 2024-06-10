@@ -14,7 +14,7 @@ export const Filter = ({ setStudents }) => {
       setSearchParams({ page: "1", house: "" });
     } else {
       const fetchStudentsPaginated = async () => {
-        const response = await fetch(`http://localhost:3000/real/students?page=${page}&house=${house}`);
+        const response = await fetch(`https://jan-back.netlify.app/api/real/students?page=${page}&house=${house}`);
         const data = await response.json();
         setStudents(data.data);
         setCurrentPage(data.meta.pagination.current);
@@ -25,13 +25,12 @@ export const Filter = ({ setStudents }) => {
     }
   }, [searchParams]);
   return (
-
     <div style={{ display: "flex", flexDirection: "column" }}>
-      <div style={{display:"flex", gap:"10px", justifyContent:"center"}}>
+      <div style={{ display: "flex", gap: "10px", justifyContent: "center" }}>
         <p>Select a house</p>
         <select
           title="house"
-          style={{borderRadius:"5px", height:"30px"}}
+          style={{ borderRadius: "5px", height: "30px" }}
           defaultValue={`${house}`}
           onChange={(e) => {
             setSearchParams({ page: `${page}`, house: e.target.value });
@@ -45,7 +44,7 @@ export const Filter = ({ setStudents }) => {
         </select>
       </div>
 
-      <div style={{ display: "flex", justifyContent: "space-between", padding: "5px 0"}}>
+      <div style={{ display: "flex", justifyContent: "space-between", padding: "5px 0" }}>
         <button
           disabled={parseInt(currentPage) === 1}
           onClick={() => setSearchParams({ page: `${parseInt(currentPage) - 1}`, house: `${house}` })}
@@ -61,7 +60,6 @@ export const Filter = ({ setStudents }) => {
           Page suivante
         </button>
       </div>
-
     </div>
   );
 };

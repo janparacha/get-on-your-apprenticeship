@@ -4,7 +4,7 @@ export const RandomStudent = () => {
   const [randomStudent, setRandomStudent] = useState("");
 
   const fetchRandomStudent = async () => {
-    const response = await fetch("http://localhost:3000/real/randomstudent");
+    const response = await fetch("https://jan-back.netlify.app/api/real/randomstudent");
     const student = await response.text();
     setRandomStudent(student);
   };
